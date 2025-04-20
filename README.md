@@ -9,33 +9,33 @@ Frameworks/libraries used
 
 # Roadmap
 
-    - [] Plan & Design
+    - [ ] Plan & Design
 
         Sketch layout (Figma/XD).
         Choose tech stack (HTML/CSS/JS + GSAP or Anime.js).
 
-    - [] SVG Landing Page
+    - [ ] SVG Landing Page
 
         Create/optimize SVG.
         Animate with stroke-dasharray or GSAP.
 
-    - [] Project List Section
+    - [ ] Project List Section
 
         HTML/CSS grid for projects.
         Add filtering (JavaScript).
 
-    - [] About Me Page
+    - [ ] About Me Page
 
         Tab system (pure JS or framework).
         Content + responsive styling.
 
-   - []  Connect Sections
+    - [ ]  Connect Sections
 
         Animate transition from SVG to projects.
 
         Link navigation (tabs/buttons).
 
-    - [] Polish & Deploy
+    - [ ] Polish & Deploy
 
         Mobile responsiveness.
         Host on GitHub Pages/Vercel.
