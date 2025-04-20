@@ -1,5 +1,6 @@
 # Personal-Website
 Goal: Create a personal website to display my AI and Trading project portfolio
+
 Design: a basic layout with a landing page that has an svg photo of me with an etch-a-sketch layout that dissolves in a list of projects, each with a hyperlink to the github repo with a picture where relevant
 
 # Built With
