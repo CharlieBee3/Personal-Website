@@ -6,6 +6,7 @@ Design: Basic layout with a landing page that has an svg photo with an etch-a-sk
 # Built With
 Frameworks/libraries used:
 Nginx
+Docker
 
 # Prequisites
 
