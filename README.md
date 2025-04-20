@@ -4,7 +4,8 @@ Goal: Create a personal website to display my AI and Trading project portfolio
 Design: Basic layout with a landing page that has an svg photo with an etch-a-sketch animation that dissolves to reveal the list of projects, each with a hyperlink to the github repo with a picture where relevant, with an about me tab linked on the side.
 
 # Built With
-Frameworks/libraries used
+Frameworks/libraries used:
+Nginx
 
 # Prequisites
 
