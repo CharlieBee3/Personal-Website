@@ -1,0 +1,5 @@
+steps:
+  - name: 'Deploy to Google Cloud Storage'
+    id: deploy
+    cmd: |
+      gsutil rsync -r . gs://personal-website-435313
